@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/99184393/222309201-8fe96906-fc80-4c75-b141-d18b2686055e.png" alt="logo" width="205" height="auto" />
+  <img src="https://styles.redditmedia.com/t5_2vkqv0/styles/communityIcon_tso809x6huaa1.png" alt="logo" width="205" height="auto" />
 
   <h1>ChatGPT Clone with React.JS</h1>
 
@@ -55,10 +55,10 @@ ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API e
 ### :camera: Screenshots
 
 <div align="center">
-<a href="https://chatgpt-sclone.vercel.app" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/222308829-d2d34db2-df30-4d60-b238-7299fd28b3f6.png' alt='image'/></a>
+<a href="https://jeff-chatgpt.vercel.app/" target="_blank"><img  src='https://user-images.githubusercontent.com/99184393/222308829-d2d34db2-df30-4d60-b238-7299fd28b3f6.png' alt='image'/></a>
 </div>
 
-## <a href="https://chatgpt-sclone.vercel.app" target="_blank">LIVE DEMO 💥</a>
+## <a href="https://jeff-chatgpt.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
