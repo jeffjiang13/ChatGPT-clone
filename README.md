@@ -1,5 +1,5 @@
 <div align="center">
-<div class="rounded-lg">
+<div class="rounded-lg ...">
   <img src="https://styles.redditmedia.com/t5_2vkqv0/styles/communityIcon_tso809x6huaa1.png" alt="logo" width="205" height="auto" />
 </div>
   <h1>ChatGPT Clone with React.JS</h1>
