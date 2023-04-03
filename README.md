@@ -11,7 +11,7 @@ ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API e
 
 <!-- Badges -->
 
-<a href="" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://jeff-chatgpt.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/github/forks/jeffjiang13/ChatGPT-clone.svg)
 ![](https://img.shields.io/github/stars/jeffjiang13/ChatGPT-clone.svg)
@@ -19,7 +19,7 @@ ChatGPT Clone with REACT! (Next.js 13, Firebase, Tailwind CSS, TypeScript, API e
 ![](https://img.shields.io/github/last-commit/jeffjiang13/ChatGPT-clone)
 
 <h4>
-    <a href="">View Demo</a>
+    <a href="https://jeff-chatgpt.vercel.app/">View Demo</a>
   <span> · </span>
     <a href="https://github.com/SashenJayathilaka/ChatGPT-Clone/blob/master/README.md">Documentation</a>
   <span> · </span>
