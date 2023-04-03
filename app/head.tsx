@@ -7,6 +7,8 @@ export default function Head() {
       <link
         rel="icon"
         href="https://styles.redditmedia.com/t5_2vkqv0/styles/communityIcon_tso809x6huaa1.png"
+        style={{ borderRadius: '50%' }} // Add this line to give the image rounded corners
+
       />
     </>
   );
